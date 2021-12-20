@@ -12,7 +12,7 @@ Argent bank is a new bank allowing users to view and manage their accounts
 
 This project uses [Yarn](https://yarnpkg.com/) as package manager, requires Node.js and use [React](https://reactjs.org/).
 
-You will need the [back end API](https://github.com/SdevOne/Project-10-Bank-API.git) running on http://localhost:3001 to launch this project.
+You will need the [back end API](https://github.com/SdevOne/Project-10-Bank-API.git) running on [http://localhost:3001] to launch this project.
 
 1 - Install Yarn on your system
 
